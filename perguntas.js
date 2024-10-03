@@ -1,6 +1,6 @@
 criaCartao(
     'Filmes',
-    'Qual o filme que a menuna come o chiclete e fica roxa e vira uma bola?',
+    'Qual o filme que a menina masca o chiclete e fica roxa e vira uma bola?',
     ' A fantástica fabrica de chocolate'
 )
 
